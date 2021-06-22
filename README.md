@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkojoo112&count_bg=%23FAFB40&title_bg=%23E50909&icon=&icon_color=%231D0808&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
