@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kojoo112&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojoo112&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkojoo112&count_bg=%23FAFB40&title_bg=%23E50909&icon=&icon_color=%231D0808&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
